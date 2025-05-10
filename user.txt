@@ -1,0 +1,14 @@
+
+INSERT INTO [User] (username, password, user_role, name)
+VALUES 
+(N'admin', N'admin123', N'Admin', N'Nguyễn Văn Quản'),
+(N'admin2', N'admin456', N'Admin', N'Trần Thị Quản'),
+(N'admin3', N'admin789', N'Admin', N'Lê Hoàng Quản'),
+
+(N'nv1', N'123456', N'NhanVien', N'Nguyễn Văn A'),
+(N'nv2', N'123456', N'NhanVien', N'Trần Thị B'), 
+(N'nv3', N'123456', N'NhanVien', N'Lê Minh C'),
+(N'nv4', N'123456', N'NhanVien', N'Phạm Hồng D'),
+(N'nv5', N'123456', N'NhanVien', N'Võ Hải E'),
+(N'nv6', N'123456', N'NhanVien', N'Huỳnh Mai F'),
+(N'nv7', N'123456', N'NhanVien', N'Đặng Thành G');
